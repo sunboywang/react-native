@@ -7,7 +7,6 @@ export default class setup extends React.Component {
       <SafeAreaView>
         <Text style={styles.test}>Hello react-native</Text>
         <LifecycleComponent />
-        <Text>sdfsdf</Text>
       </SafeAreaView>
     );
   }
