@@ -6,6 +6,7 @@ export default class setup extends React.Component {
     return (
       <SafeAreaView>
         <Text style={styles.test}>Hello react-native</Text>
+        <Text style={styles.test}>dev分去</Text>
         <LifecycleComponent />
       </SafeAreaView>
     );
